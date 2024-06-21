@@ -1,5 +1,5 @@
 h1{
-    color: brown;
+    color: white;
 }
 
 ul{
@@ -7,7 +7,7 @@ ul{
 }
 
 p{
-    color: green;
+    color: white;
 }
 /*
 div{
@@ -19,5 +19,17 @@ background-color: rgb(117, 157, 37);
 */
 
 body{
-    background-color: aqua;
+    background-color: cornflowerblue;
+}
+html{
+    background-color: cornflowerblue;
+}
+h2{
+    color: white;
+}
+h3{
+    color: white;
+}
+html{
+    border: white double 20px;
 }
